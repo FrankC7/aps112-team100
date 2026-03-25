@@ -49,7 +49,7 @@ Specialized inventory management system for a student equipment kiosk, built wit
 ├── types
 │   └── inventory.ts
 ├── .env.example
-├── next.config.ts
+├── next.config.mjs
 ├── package.json
 ├── tailwind.config.ts
 └── tsconfig.json
